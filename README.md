@@ -1,4 +1,4 @@
-![Header](img/github-header-image.png)
+![Header](img/github-header-image1.png)
 
 <!--
 **cubadakanda/cubadakanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
