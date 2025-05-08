@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header](img/github-header-image.png)
 
 <!--
 **cubadakanda/cubadakanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![impian](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV5N3lucG5zM2NnNXRwd2J3OWoxNTk0YW1qdjZkZTVnNjlwMHYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q217GUnfKAmJlFcjBX/giphy.gif)
